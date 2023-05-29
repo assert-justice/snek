@@ -1,5 +1,9 @@
 # Drawing Stuff with JS!
 
+This is a repo for a talk about the Canvas API and how to make a simple game in vanilla JS!
+
+The page is deployed [here](https://assert-justice.github.io/snek/)!
+
 ## Drawing Stuff
 
 - starting html and css
@@ -60,7 +64,11 @@
 
 ### Further Developments
 
+- fixing bugs
 - queuing inputs
 - in game ui
+- responsive design
 - sound effects
 - music
+- implementing a leaderboard
+- controller support
